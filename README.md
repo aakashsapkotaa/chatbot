@@ -78,5 +78,4 @@ GOOGLE_GEMINI_API_KEY=
 
 ## 📄 License
 
-MIT — Copyright © 2026 **Aakash Sapkota (aakashsapkotaa)**  
-Portions copyright © 2024 Mckay Wrigley (original MIT base)
+MIT — Copyright © 2026 **Aakash Sapkota (aakashsapkotaa)**
